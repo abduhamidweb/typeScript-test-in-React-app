@@ -1,0 +1,12 @@
+.todo{
+  max-width: 700px;
+  width: 100%;
+  margin: 100px auto;
+  border: 1px solid #fff;
+  color: white;
+  padding: 20px;
+}
+.todo .btn{
+  margin-left: auto;
+  width: 100%;
+}
